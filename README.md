@@ -2,7 +2,8 @@
 
 ## Main Page
 - ### Header
-  - Start (Button named "New User" with plus sign, "Hide Disabled User" checkbox with checked default) - End ("Save User Button")
+  - Start (Button named "New User" with plus sign, "Hide Disabled User" checkbox with checked default) - End (Button named "Save User") looks faded if form fields are empty.
+  - "New User" button displays "New User" form when clicked.
 - ### Body
   - #### Table
     - A Table covering half of the screen on the left
